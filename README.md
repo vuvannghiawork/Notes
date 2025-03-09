@@ -1,5 +1,10 @@
-Em chào anh
+ngrok config add-authtoken 2u3hajOXutNEVxeuuI4PMWJofuO_4ZKhAoVLMZT4Vnzbmo4H4
 
-Sáng hôm thứ 7 em có mang máy asus rog strix sang bên 93 Lê Thanh Nghị để sửa. Em sợ ghi nhầm thông tin số điện thoại nên em nhắn lại ạ
+<!-- http://localhost:9010/swagger-ui/index.html -->
 
-Khi nào bên mình sửa xong thì anh nhắn thêm thông báo zalo này cho em với ạ hoặc để em tự đến lấy ạ
+ngrok http --url=terminally-natural-crawdad.ngrok-free.app 80
+
+ngrok http 9010
+https://80ea-2405-4803-ff97-9db0-b5db-74aa-a03e-49e7.ngrok-free.app/swagger-ui/index.html
+
+<!-- http://localhost:9010/swagger-ui/index.html -->
